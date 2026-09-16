@@ -25,8 +25,8 @@ React / TypeScriptを中心に学習し、Webアプリケーションの個人�
 React + TypeScript + Supabaseを使用し、
 認証・データベース・テスト・レスポンシブ対応・本番環境へのデプロイまで実装しています。
 
-[Repository](https://github.com/bokuchin0126-coder/study-planner)  
-[Demo](https://study-planner-mu-eight.vercel.app/)
+[View Code（GitHub）](https://github.com/bokuchin0126-coder/study-planner)  
+[Live Demo（Vercel）](https://study-planner-mu-eight.vercel.app/)
 
 ## 学習内容
 
